@@ -1,0 +1,259 @@
+* e302fbf (HEAD, origin/master, origin/HEAD, master) Picture added to result.
+* bd35f09 Result and tracking updated
+*   06b7927 Merge branch 'master' of github.com:matni796/robot-security-tsbb11
+|\  
+| * 0683c67 Removla of robot added
+* | 2368019 Added a build manaul how to
+|/  
+* 0c71449 Evaluation written
+* b33ddd0 Updated result and tracking
+*   b70053a Merge branch 'master' of github.com:matni796/robot-security-tsbb11
+|\  
+| *   c209abc Merge branch 'master' of https://github.com/matni796/robot-security-tsbb11
+| |\  
+| * | 68d9810 patriks presentation updated
+* | | f1f6059 Forgot images
+| |/  
+|/|   
+* | 02cb685 Forgot the files
+* | c5353bf Added overview and evaluation
+|/  
+*   1be62ea Merge remote-tracking branch 'origin/master'
+|\  
+| * 88729f1 Presentation: Updated part about tracking.
+* | bc983ee Added robot and updated BGS
+|/  
+* 830961f Added Calibration to Presentation
+* 16fb746 added some parameters
+* 53586b8 Updated How to
+*   0af9a43 Merge remote-tracking branch 'origin/master'
+|\  
+| * 0c74028 Update of manual. Added steps for visualization.
+| * 7a9909c Added new files into presentation
+| * 0aefa6b Updated howtoMrRoboto.tex
+| * 84ded28 Changed the references to be in correct order
+| *   ca871eb Conflict solved in report.tex
+| |\  
+| | * 90c8e0d Small changes in references, added preamble anders elopel.
+| | * f0a1676 Added a few rows about background segm,
+| * | 44e3ff0 Nippe, bibliography and how to mister roboto changed
+| |/  
+| * 3df2ff0 small changes in results...
+| * ec1f79e Changes done to Transformation into camera coorinate system. Due to Johans comments.
+| * eb51020 Evaluation updated. Refers to the scenarios.
+| *   cfdd38b FIxed Merge branch 'master' of github.com:matni796/robot-security-tsbb11
+| |\  
+| | * 636d2ad Fixed Johans comments on one page of calibration
+| | * 1646994 small changes
+| | * 14efbc6 change the name of the project
+| | * 744906d added a dot in the report in the end of clustering
+| * | 48d4101 Rewrote calibration part, pnp. Fixed overwritten visualization of robot.
+| * |   4388675 Updated reference for backgroundsubtractor Merge branch 'master' of github.com:matni796/robot-security-tsbb11
+| |\ \  
+| | |/  
+| | * a41d63a added result files
+| | * d945ee1 changed the reference in clustering to the real phd thesis
+| | * ae69e97 thing
+| | * 3339c11 added result images
+| | *   fbe365b Merge branch 'master' of github.com:matni796/robot-security-tsbb11
+| | |\  
+| | * | a0011c2 Hej hej monika hej på dig monika
+| | * | 67c6ac5 calibration stuff
+| * | | 5d7e702 Updated reference on backgroundsubtractormog2
+| | |/  
+| |/|   
+| * | fe2ad31 Small changes in distance calculate
+| * | 2d0af26 Shrunk section regarding robot removal. Rewrote robot visualization.
+| |/  
+| * afee5e3 small changes in project
+| *   95f59d5 Merge remote-tracking branch 'origin/master'
+| |\  
+| | * 5384568 Added calibration equations, deleted generated files
+| * | d8b670d Nippe
+| |/  
+| * 81b5908 Small adjustments in report after reading through it
+| * 8edbad8 Update Nippe
+| * e899c03 fixed a personal mergefail /mattias
+| * 1b941b2 Delete Report.pdf
+| * d797515 Delete Report.out
+* | 3b72fea small changes in calib, clustering and disthandkler to fix bugs with robot not being removed. Also added all movies for results
+|/  
+* bd014a4 Update of present code(and parameters)
+* eb77926 Added results from evaluation of system. Using tracker and not.
+*   d6e134c MErge
+|\  
+| *   2ba0b57 Update of Req. Spec.. Confirmed. Merge branch 'master' of github.com:matni796/robot-security-tsbb11
+| |\  
+| | * 5be210a Update report
+| * | c0a7e7d Req. Spec. updated, confirmed by Richard Olsen
+* | | 6d68b00 Added library + corrections
+| |/  
+|/|   
+* | 17de1d9 Small modds
+* | dc228de Added another pic
+* |   1947989 Merge branch 'master' of github.com:matni796/robot-security-tsbb11
+|\ \  
+| * \   dab5043 added some in conclusion
+| |\ \  
+| * | | 0be169b conclusion part altered
+* | | | ba7e24c added a pic.robsaf
+| |/ /  
+|/| |   
+* | | 83603bb report stuff
+|/ /  
+* | f0e8f4f Images partially inserted into report
+* |   9a01012 Merge branch 'master' of https://github.com/matni796/robot-security-tsbb11
+|\ \  
+| * | d512b1c bilder2
+| * | d8b8ad6 bilder
+* | | f080fd4 entered conclusion...
+|/ /  
+* |   a270212 Merge branch 'master' of github.com:matni796/robot-security-tsbb11
+|\ \  
+| * | 961068b Added images in report[latex]
+* | | bdb75b4 Dsicusson change
+* | |   054d69d Merge branch 'master' of github.com:matni796/robot-security-tsbb11
+|\ \ \  
+| |/ /  
+| * | 6803cd0 Texing of report
+| * | b534059 (origin/patrik) parameter tuning
+| * | 49f8746 added presentation.
+| |/  
+| * d0487be updated version of req spec.
+| * 7554937 Updated requirement spec
+* | 78ea893 Added a non-tested startup-script
+|/  
+* 796e469 calibration now uses x-angle system and code cleanup
+* 962ab26 Figure of robot removal and tikz-3dplot.sty added
+*   7b9a7b7 Merge branch 'reportBranch'
+|\  
+| * fa14220 added report structure
+* | 9bdb18a Almost done with manual, awaits script for running of syste,/program
+* | f3b34cb Started on manual and added pdf with instructions for motoplus application.
+* |   8797b17 Application file and parameter file to controller added. Merge branch 'master' of github.com:matni796/robot-security-tsbb11
+|\ \  
+| * \   c84587e Merge branch 'master' of github.com:matni796/robot-security-tsbb11
+| |\ \  
+| | |/  
+| * | f58db88 Added a folder for finished Documents
+* | | 556d736 Added files that are essential for the interface with controller
+| |/  
+|/|   
+* | 5dd6cbb Calibration modification, but will need new subroutine.
+* |   12203b3 (origin/tracking_branch, tracking_branch) Merge branch 'master' of github.com:matni796/robot-security-tsbb11
+|\ \  
+| * | f6eef41 Removed junk files
+| * | f7fb8a3 Removed remnants of distanceCalc
+| * | af4fdef Renamed distanceCalc to distance_calc
+| * | 6b73fe4 (origin/tf_transforms) Rewrote calibration to use a parameterized class
+* | | baf3e94 Tracking implemented in DistanceHandler
+|/ /  
+* | 000af15 Merging of all parts, working distanceCalc in rviz - Including Industrial_core and motoman - Problem with cluster growing fixed
+* | b51e2f1 tf: calibration uses tf system to communicate
+* | dbeb012 TF: Modified calibration package to use tf
+|/  
+* d7f48ac Added color to line
+* 8250b83 Working line
+* baad3c0 (origin/visualization_branch) Added a published line
+* 3713f4f Removed lots of comments
+* 3a574ae Lots of nice refactoring
+* bab4471 refactoring DistanceHandler and adding testcylinder to rviz
+* 0a7bb80 started to make a publish function for robot
+* 4a5c1a0 added a cylinder isch
+* 2c3c7d5 experimenting with a visualizer
+* 111c754 added a frame for foreground_cloud
+*   fbc84c0 merge
+|\  
+| * 5e327b1 (origin/distance_calc) DistanceHandler working
+| * 3ceb765 last fridays work
+| * 7d8dd32 A maybe working class, need rviz
+| * e65f7da Showed stuff from distanscalc to distancehandler
+| *   7e878a1 Merge remote-tracking branch 'origin/distance_calc' into distance_calc
+| |\  
+| | *   7c9195c Merge remote-tracking branch 'origin/distance_calc' into distance_calc
+| | |\  
+| | * | 94c11a2 removed the viewer, which is fucked up
+| * | | af427a3 working class DistanceHandler
+| | |/  
+| |/|   
+| * | ac58750 FOrgot the file
+| * | 023d428 Added a class for handlenig distance stuff
+| |/  
+| * 2f09b3e lol
+| *   aab6873 Merge branch 'master' into distance_calc
+| |\  
+| * | 31a8f66 something wrong with clustering...
+| * | 5084169 lol
+| * |   ffc47ca resolved conflicts
+| |\ \  
+| | * | 5554f0b New project folder for distance calculation
+| * | | 3f28be8 before pushing to github...
+| * | | 73d3cbc added a cout
+| * | | dc7a68e is now publishing a float32 MultiArray to the topic distances
+| * | | 4bb3d88 entered the new data type in distance calc.
+| * | | 03da84c entered the msg created ourselvs, this need to be tested, since it is now only passing the catkin_make.
+| * | | a3f316e lol
+| * | | d24bbc8 Changed the clsuterin the instead send a vector of vector of point32
+| * | | 253e010 tested own defined .msg message
+| * | | 6717366 awwwaw
+| * | | d428289 waiting or input from clustering
+| * | | 3c180bf Tenta-p start.
+| * | | 0bb19e1 New project folder for distance calculation
+* | | | 7c36b35 added support for hydro
+| |_|/  
+|/| |   
+* | | 3f09a66 Access to env.variables added
+|/ /  
+* | 31f249f (origin/calibration) Added a publisher for calibration
+* | 1e8907b R-vector and tvector generated
+* |   cf20574 Merge remote-tracking branch 'origin/calibration' into calibration
+|\ \  
+| * | 3aac4ab added the files for calibration
+* | | f50aa65 added the files for calibration
+* | | a3b6d4e Parameter changes in clustering
+* | | 43d0d53 Changed != to == in if statement, background modelling
+* | | f71cc93 - Added normalization of images in Background and cleanup - CamMatRGB.yaml added
+|/ /  
+* | 643adee Background modelling is ignoring Nan values when creating PC
+* | 929513e small parameteradjustments
+|/  
+* cb1f113 (origin/background_modelling) Modifications for sending pointclouds
+* 97e46d2 Integrated clustering on top of bg-model-cloud
+* c033799 Made a clustering branch with clustering code.
+*   e91c3f1 Merge remote-tracking branch 'origin/background_modelling' into background_modelling
+|\  
+| * 79d8ddf Added functionality for publishing, warning nonworking
+| * 16d2f2c Working foreground point cloud.
+| * 514aa91 WIP pcl added, working on publishing
+* | 1563920 Added functionality for publishing, warning nonworking
+* | d9e7455 Working foreground point cloud.
+* | fad3205 WIP pcl added, working on publishing
+* | ecd7df7 Camera Matrix added.
+|/  
+* 3a14bbf Created a background modelling package
+* e53b832 Added catkin workspace to repository
+* dd1ce14 Changed std on the background model.
+* 07a4f3b added a file performing easy background-modelling
+*   10536c3 Merge branch 'master' of github.com:matni796/robot-security-tsbb11
+|\  
+| *   c3121e3 Merge branch 'master' of github.com:matni796/robot-security-tsbb11
+| |\  
+| * | 191c8a7 Final changes in documents after Feldsberg's comments
+* | | 6fdf336 Added a file for testing the connect.
+| |/  
+|/|   
+* | 50c687b Changes Projectplan according to Michael
+|/  
+* 9712cc0 Changes in Requirements Specification due to comments from Prof. Feldsberg.
+* e56f977 Changes in system overview due to comments from Prof. Feldsberg
+* f2c983e Updated overview according to the comments by Mr. Hedborg
+* e71d68c Updated req spec according to mr hedborgs comments.
+* b92d683 made changes in requirment specification.
+* 19e202e Issue-ID: Altered project plan (minor errors removed)
+* b61eb05 Issue-ID: Altered requirements specification (small changes...)
+* 612cfee ISSUE-ID:nyaste versionen av krav-specen
+* 8efe8ec Texified system overview document
+* fb7bccd Added texified req.spec. and project plan
+* 64403a0 TRIVIAL: Added reference documents
+* 0744dc4 Testing adding a directory.
+* b8d77b0 Initial commit
